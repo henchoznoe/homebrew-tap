@@ -1,8 +1,8 @@
 class GitSetup < Formula
   desc "Automated & non-destructive Git, SSH, and GPG environment setup for macOS"
   homepage "https://github.com/henchoznoe/GitSetup"
-  url "https://github.com/henchoznoe/GitSetup/archive/refs/tags/v1.9.0.tar.gz"
-  sha256 "df7d6d1e8180e7d7f18b70c11d311f09b8151ecc33f03ca1d3b87fd5fcdfd200"
+  url "https://github.com/henchoznoe/GitSetup/archive/refs/tags/v1.9.1.tar.gz"
+  sha256 "428ee3e93dd9fc1e75b56f35115146d98c268c20d7c1b4f59616ec602c604680"
   license "MIT"
 
   depends_on "node@22"
